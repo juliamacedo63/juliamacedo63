@@ -1,5 +1,5 @@
 ## Sobre a Julia 👋
-
+- 🐞 Juaninha
 - 🔭 Eu sou estudante do IFCE campus Maranguape
 - 🎂 Aniversário: 08/01/2008
 - ⚡ Curso: Informática
