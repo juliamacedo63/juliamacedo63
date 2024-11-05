@@ -13,4 +13,4 @@
 - [Atividades da Disciplina de Desenvolvimento WEB I](https://github.com/juliamacedo63/Atividades-WEB-I---HTML)
   
 ## ✉️ E-mail para contato:
-- [Email](julia.macedo63@aluno.ifce.edu.br)
+- Email: julia.macedo63@aluno.ifce.edu.br
