@@ -3,7 +3,7 @@
 - 🔭 Eu sou estudante do IFCE campus Maranguape
 - 🎂 Aniversário: 08/01/2008
 - ⚡ Curso: Informática
-- 🦋 Idade: 16 anos
+- 🦋 Idade: 17 anos
 
 ## 💬 Redes Sociais:
 - [Instagram](https://www.instagram.com/ana.julia.mg/)
